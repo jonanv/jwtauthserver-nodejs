@@ -1,4 +1,4 @@
-# jwtauthserver-reactjs
+# jwtauthserver-nodejs
 JWT (JSON Web Token) authentification server in Node JS - Express
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
