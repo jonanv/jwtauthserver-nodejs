@@ -6,6 +6,6 @@ JWT (JSON Web Token) authentification server in Node JS - Express
 
 ### `yarn install`
 
-### `Start`
+## Start
 
 ### `node app.js`
