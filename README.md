@@ -1,5 +1,5 @@
 # jwtauthserver-nodejs
-JWT (JSON Web Token) authentification server in Node JS - Express
+JWT (JSON Web Token) authentification server with Node JS - Express
 
 
 ## Install
